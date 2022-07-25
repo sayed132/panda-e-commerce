@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 /* font import */
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,700;1,400&family=Montserrat:wght@500;900&family=Poppins:wght@500&family=Roboto:wght@300;500&display=swap');
 
