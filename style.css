@@ -1,8 +1,28 @@
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,700;1,400&family=Montserrat:wght@500;900&family=Poppins:wght@500&family=Roboto:wght@300;500&display=swap');
+
+/* font  */
+/* font-family: 'Lobster Two', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2,h3,h4,h5,h5,button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
 .panda-bg-info{
     background-color: #fceae8;
 }
 .categoris img{
-    width: 100px;
+    width: 80px;
+}
+.categoris{
+    color: white;
+    font-weight: bolder;
 }
 .btn-buy-now {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
